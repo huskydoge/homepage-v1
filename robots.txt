@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://huskydoge.github.io/gatsby-theme-academic/sitemap/sitemap-index.xml
+Sitemap: https://huskydoge.github.io/sitemap/sitemap-index.xml
 Host: https://huskydoge.github.io
