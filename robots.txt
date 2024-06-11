@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://codejaeger.github.io/sitemap/sitemap-index.xml
-Host: https://codejaeger.github.io
+Sitemap: https://huskydoge.github.io/gatsby-theme-academic/sitemap/sitemap-index.xml
+Host: https://huskydoge.github.io
